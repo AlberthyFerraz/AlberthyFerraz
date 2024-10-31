@@ -10,7 +10,7 @@
 
 ###
 
-<h4 align="center"> Sou Alberthy Ferraz, tenho 19 anos e sou apaixonado por tecnologia. Acredito que ela tem o poder de transformar a vida de muitas pessoas e ajudar a criar um mundo mais equitativo. Também adoro aprender coisas novas, explorar novos lugares e conhecer histórias diferentes. Nos meus momentos livres, gosto de jogar e me dedicar aos treinos na academia.<br><br>Idade: 18<br>Qualificações profissionais: Jovem aprendiz de eletromecânica<br>O cursando ensino técnico em informática</h4>
+<h4 align="center"> Sou Alberthy Ferraz 🧑‍💻, tenho 19 anos e sou apaixonado por tecnologia. Acredito que ela tem o poder de transformar a vida de muitas pessoas e ajudar a criar um mundo mais equitativo. Também adoro aprender coisas novas, explorar novos lugares e conhecer histórias diferentes. Nos meus momentos livres, gosto de jogar e me dedicar aos treinos na academia.💪<br><br>Idade: 18<br>Qualificações profissionais: Jovem aprendiz de eletromecânica<br>O cursando ensino técnico em informática</h4>
 
 ###
 

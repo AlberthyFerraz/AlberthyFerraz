@@ -53,6 +53,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
+  ![github contribution grid snake animation](https://raw.githubusercontent.com/ArgLD/ArgLD/output/github-contribution-grid-snake.svg)
 </div>
 
 ###

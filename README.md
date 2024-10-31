@@ -14,7 +14,7 @@
 
 ###
 
-<h1 align="center">STATUS</h1>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=FF0000&background=E9E9E900&center=true&width=435&lines=STATUS)](https://git.io/typing-svg)
 
 ###
 

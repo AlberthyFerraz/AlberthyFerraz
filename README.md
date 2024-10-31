@@ -1,12 +1,4 @@
-<h1 align="center">STATUS</h1>
-
-###
-
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=AlberthyFerraz&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=synthwave&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AlberthyFerraz&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=synthwave&hide_border=false&order=2" height="153" alt="languages graph"  />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AlberthyFerraz&radius=16&theme=synthwave-84&area=true&order=5" height="300" alt="activity-graph graph"  />
-</div>
+<h1 align="center">Alberthy: O Ferraz!</h1>
 
 ###
 
@@ -16,7 +8,23 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/AlberthyFerraz/AlberthyFerraz/output/snake.svg" alt="Snake animation" />
+<h4 align="center">Idade: 18<br>Qualificações profissionais: Jovem aprendiz de eletromecânica<br>O cursando ensino técnico em informática</h4>
+
+###
+
+<h1 align="center">STATUS</h1>
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AlberthyFerraz&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=synthwave&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AlberthyFerraz&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=synthwave&hide_border=false&order=2" height="153" alt="languages graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AlberthyFerraz&radius=16&theme=synthwave-84&area=true&order=5" height="300" alt="activity-graph graph"  />
+</div>
+
+###
+
+<h2 align="left">Informações</h2>
 
 ###
 
@@ -41,6 +49,10 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" alt="firebase logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
 </div>
 
 ###

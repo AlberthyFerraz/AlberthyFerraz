@@ -13,9 +13,11 @@
 <h4 align="center">Idade: 18<br>Qualificações profissionais: Jovem aprendiz de eletromecânica<br>O cursando ensino técnico em informática</h4>
 
 ###
+
 <div align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=FF0000&background=E9E9E900&center=true&vCenter=true&width=435&lines=STATUS" alt="Typing SVG" /></a>
 </div>
+
 ###
 
 <div align="center">

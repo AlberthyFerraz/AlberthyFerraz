@@ -63,3 +63,4 @@
 ###
 
 ![github contribution grid snake animation](https://raw.githubusercontent.com/ArgLD/ArgLD/output/github-contribution-grid-snake.svg)
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&animation=blink&fontColor=000000&section=footer"/>
